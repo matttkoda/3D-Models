@@ -10,10 +10,10 @@ Print Settings
 
 * Resolution: .20 
 
-* Infill: 20% 
+* Infill: 10% 
 
 * Filament brand: [Hatchbox](https://www.hatchbox3d.com/collections/pla-1-75mm)
 
-* Filament color: Grey 
+* Filament color: Orange 
 
 * Filament material: PLA
