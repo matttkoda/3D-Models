@@ -5,7 +5,7 @@ All my content here is released under a Creative Commons license Attribution-Non
 
 Files:
 
-&nbsp;&nbsp;&nbsp; * Lockpicking & Locksport
+&nbsp;&nbsp; * Lockpicking & Locksport
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * American Lock 1100 Series Pinning Mat
 
