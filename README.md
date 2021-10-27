@@ -5,7 +5,7 @@ All my content here is released under a Creative Commons license Attribution-Non
 
 Current 3D printer:
 
-My printer is a [Creality Ender 3 V2](https://www.banggood.com/Creality-3D-Ender-3-V2-Upgraded-3D-Printer-Kit-220x220x250mm-Printing-Size-TMC2208-or-Ultra-silent-32-bit-Mainboard-or-Carborundum-Glass-Platform-or-Mean-Well-Power-Supply-or-New-UI-4_3inch-Color-Screen-p-1661657.html?p=RD152133670907202110&custlinkid=1676961) (affiliate link) with [BLTouch](https://www.amazon.com/ANTCLABS-BLTouch-Leveling-Premium-Extension/dp/B07FR2LLZP/ref=sr_1_21?dchild=1&keywords=bl%2Btouch%2Bkit&qid=1634353260&sr=8-21&th=1) (no affiliate link). 
+My printer is a [Creality Ender 3 V2](https://www.banggood.com/Creality-3D-Ender-3-V2-Upgraded-3D-Printer-Kit-220x220x250mm-Printing-Size-TMC2208-or-Ultra-silent-32-bit-Mainboard-or-Carborundum-Glass-Platform-or-Mean-Well-Power-Supply-or-New-UI-4_3inch-Color-Screen-p-1661657.html?p=RD152133670907202110&custlinkid=1676961) (affiliate link) with [BLTouch](https://www.amazon.com/ANTCLABS-BLTouch-Leveling-Premium-Extension/dp/B07FR2LLZP/ref=sr_1_21?dchild=1&keywords=bl%2Btouch%2Bkit&qid=1634353260&sr=8-21&th=1) (no affiliate link). I also did a [Creality upgrade 3D printer kit](https://www.amazon.com/dp/B08L3HB4L6?psc=1&ref=ppx_yo2_dt_b_product_details) (no affiliate link) off of Amazon. Also I currently use Ocoprint on an old rasberry pi with a Webcam.
 
 
 Files:
